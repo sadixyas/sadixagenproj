@@ -1,3 +1,5 @@
-SAMPLE,Condition,Replicate,FilenameBase
-Sample1,Mycelia,1,SRR1234
-Sample2,Mycelia,2,SRR1235
+SAMPLE,CONDITION,REPLICATE,READBASE
+Sample1,IMKmedium,1,SRR12010079
+Sample2,ASWmedium,2,SRR12010080
+Sample3,ASWmedium,1,SRR12010081
+Sample4,IMKmedium,2,SRR12010082
